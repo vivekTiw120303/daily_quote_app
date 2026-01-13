@@ -57,7 +57,7 @@ Instead of writing boilerplate, I treated the IDE as an Agent:
 ### Option B: Run Locally
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/YOUR_USERNAME/daily_quote_app.git](https://github.com/YOUR_USERNAME/daily_quote_app.git)
+git clone [https://github.com/vivekTiw120303/daily_quote_app.git](https://github.com/vivekTiw120303/daily_quote_app.git)
 
 # 2. Install dependencies
 flutter pub get
