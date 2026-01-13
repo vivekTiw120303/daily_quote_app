@@ -67,31 +67,10 @@ flutter run
 ```
 
 ✨ Features
-Daily Inspiration: Fetches random quotes from the ZenQuotes API with error handling.
-
-Glassmorphism UI: Custom-built "Frosted Glass" cards and navigation bar.
-
-Favorites System: Save quotes locally; data persists across app restarts.
-
-Social Sharing: Native share sheet integration to send quotes to other apps.
-
-Adaptive Layout: Masonry-style grid for the Favorites list.
-
-📂 Project Structure
-lib/
-├── main.dart           # Entry point & Theme config
-├── models/
-│   └── quote.dart      # Data model for JSON parsing
-├── providers/
-│   └── quote_provider.dart # State management logic
-├── screens/
-│   ├── home_screen.dart    # Main quote view
-│   └── favorites_screen.dart # Masonry grid view
-└── widgets/
-    ├── glass_nav_bar.dart 
-    └── glass_card.dart     
-    └── custom_nav_bar.dart
-    └── animated_heart_button.dart
-    └── scale_button.dart
+1. Daily Inspiration: Fetches random quotes from the ZenQuotes API with error handling.
+2. Glassmorphism UI: Custom-built "Frosted Glass" cards and navigation bar.
+3. Favorites System: Save quotes locally; data persists across app restarts.
+4. Social Sharing: Native share sheet integration to send quotes to other apps.
+5. Adaptive Layout: Masonry-style grid for the Favorites list.
 
 Submitted by Vivek Tiwari
